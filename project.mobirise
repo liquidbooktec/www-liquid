@@ -332,6 +332,24 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/artboard-2-1920x1080.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<b>GUERRA HÍBRIDA<br>CONTRA O BRAZIL</b>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Uma nova estratégia de guerra acontece no século XXI. Não se trata mais do poderio bélico,<br>mas sim da manipulação da informação digital e dos meios de informação.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"http://ilton.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a> ",
+                "overlayOpacity": "0.1"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/prancheta-1-1000x524.png",
                 "active": false,
                 "showButtons": true,
@@ -351,7 +369,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mockup-capa-e-contra-capa-2000x1400.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
