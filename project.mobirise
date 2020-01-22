@@ -346,7 +346,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Uma nova estratégia de guerra acontece no século XXI. Não se trata mais do poderio bélico,<br>mas sim da manipulação da informação digital e dos meios de informação.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-2 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://bernardo.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">DE R$40<br>POR R$28<br></a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-2 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://bernardo.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">R$40 POR R$28<br>e FRETE GRÁTIS<br></a> ",
                 "overlayOpacity": "0.1"
               },
               {
