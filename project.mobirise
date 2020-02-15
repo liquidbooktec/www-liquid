@@ -332,7 +332,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/pr-venda-saudades-de-junho-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/mockup-saudades-de-junho-1900x1194.png",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
@@ -344,9 +344,9 @@
                 "customStyle3": "display-2",
                 "title": "<b>GUERRA HÍBRIDA<br>CONTRA O BRAZIL</b>",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "right",
                 "text": "Uma nova estratégia de guerra acontece no século XXI. Não se trata mais do poderio bélico,<br>mas sim da manipulação da informação digital e dos meios de informação.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-2 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://bernardo.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">R$40 POR R$28<br>e FRETE GRÁTIS<br></a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-2 btn-info\" data-app-placeholder=\"Type Text\" href=\"http://bernardo.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;R$40 com<br>FRETE GRÁTIS<br></a> ",
                 "overlayOpacity": "0.1"
               },
               {
