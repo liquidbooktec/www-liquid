@@ -308,10 +308,13 @@
               "z-index": "auto"
             },
             "B": {
-              "color": "#ffc400"
+              "color": "#ffffff"
             },
             "H2": {
               "color": "#ff3366"
+            },
+            "P": {
+              "color": "#0f7699"
             }
           },
           "_name": "slider1",
@@ -333,7 +336,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2-minimal-book-mockup-featuring-a-brown-paper-wrapping-303-el-1920x1280.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -351,7 +354,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mockup-saudades-de-junho-1900x1194.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -422,8 +425,8 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1459-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/promoo-valmir-face-851x315.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -434,9 +437,11 @@
                 "customStyle3": "display-4",
                 "title": "<b>DIÁLOGOS PARA</b><br><b>SANTOS CEGOS</b>",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "Diálogos para Santos Cegos provoca, invoca e reza pela salvação da sua memória!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"http://valmir.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"http://valmir.liquidbook.com.br/\" data-toolbar=\"-mbrBtnMove\">Adquira</a> ",
+                "overlayOpacity": "0",
+                "overlayColor": "#ff7f9f"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mockup-evoluir-2000x1500.jpg",
